@@ -40,7 +40,7 @@ p {
   width: 50px;
 }
 .toggle-btn span {
-  width: 60px;
+  width: 50px;
   height: 10px;
   border-radius: 5px;
   background: #09fbba;
@@ -59,3 +59,7 @@ li:hover {
   background: #292929;
   color: #fcfcfb;
 }
+.active {
+  left: 0 !important
+}
+/*ou faire #side-bar.active en nom de classe foncstionne aussi*/
